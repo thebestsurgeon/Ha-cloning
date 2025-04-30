@@ -1,0 +1,154 @@
+header{
+  width:100%;
+  color:white;
+  background-color: darkorange;
+  height: 60px;
+}
+table{
+  width:100%;
+  
+}
+#strokes{
+  width:20px;
+  height:20px;
+ 
+}
+#pad{
+  padding-left: 15px;
+  padding-top: 15px;
+}
+#name{
+  font-family: arial;
+  font-size:20px;
+  font-weight:bold;
+  padding-top: 15px;
+  text-align:center;
+}
+.set{
+  width:25px;
+  height:30px;
+  padding-top: 15px;
+  
+}
+body{
+  background-color: white;
+}
+#home{
+  text-align: center;
+  text-transform: uppercase;
+  color: darkorange;
+ font-size: 14px;
+  border-bottom: 2px solid darkorange;
+  padding-bottom: 10px;
+  font-family: arial;
+}
+#log{
+  text-align: center;
+  text-transform: uppercase;
+  color:black;
+  border-bottom: 1px solid #D0D1DA;
+  padding-bottom: 10px;
+  font-size:14px;
+  font-family:arial;
+}
+#box{
+  width: 300px;
+  height: 350px;
+  box-shadow: 0 4px 8px 0
+  rgba(0,0,0,0.2),
+  0 4px 6px 0
+  rgba(0,0,0,0.19);
+  border-radius: 5px;
+}
+.ss{
+  text-transform: uppercase;
+  color: black;
+  font-size: 13px;
+  font-family:monospace ;
+  text-align: left;
+}
+.si{
+  width:35px;
+  height: 35px;
+}
+#pp{
+  width:200px;
+}
+#kk{
+  width:20px;
+  height:20px;
+}
+.tt{
+  font-size: 12px;
+  margin-left: 35px;
+}
+#ii{
+  padding-left:30px;
+}
+select{
+  border-color: white;
+  margin-left: 50px;
+}
+#call{
+  margin-left: 5px;
+  width:290px;
+  height:27px;
+  box-shadow: 0 4px 8px 0
+  rgba(0,0,0,0.2),
+  0 4px 6px 0
+  rgba(0,0,0,0.19);
+  border-radius: 30px;
+}
+#y{
+  width:22px;
+  height:22px;
+  margin-left: 90px;
+}
+.gg{
+  width:50px;
+}
+.fg{
+  font-size: 13px;
+}
+.uu{
+  width:20px;
+  height: 25px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+.dd{
+  text-transform: uppercase;
+  font-size:13px; 
+}
+.ee{
+  width:40px;
+  height:40px;
+  
+}
+.w{
+  width:30px;
+  height:30px;
+}
+.as{
+  width:30px;
+  height:29px;
+}
+.oo{
+  font-size: 14px;
+}
+.jj{
+  font-size: 12px;
+  margin-left: 40px;
+}
+.bb{
+  color: white;
+  background-color: darkorange;
+  text-align: center;
+  font-family: monospace;
+  padding: 5px 20px;
+  padding-top: 9px;
+  height:21px;
+  border-radius: 5px;
+  font-size: 15px;
+  
+}
